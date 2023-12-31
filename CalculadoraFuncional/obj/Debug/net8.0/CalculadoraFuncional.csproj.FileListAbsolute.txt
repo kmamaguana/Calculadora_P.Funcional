@@ -1,0 +1,14 @@
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\bin\Debug\net8.0\CalculadoraFuncional.exe
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\bin\Debug\net8.0\CalculadoraFuncional.deps.json
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\bin\Debug\net8.0\CalculadoraFuncional.runtimeconfig.json
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\bin\Debug\net8.0\CalculadoraFuncional.dll
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\bin\Debug\net8.0\CalculadoraFuncional.pdb
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\obj\Debug\net8.0\CalculadoraFuncional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\obj\Debug\net8.0\CalculadoraFuncional.AssemblyInfoInputs.cache
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\obj\Debug\net8.0\CalculadoraFuncional.AssemblyInfo.cs
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\obj\Debug\net8.0\CalculadoraFuncional.csproj.CoreCompileInputs.cache
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\obj\Debug\net8.0\CalculadoraFuncional.dll
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\obj\Debug\net8.0\refint\CalculadoraFuncional.dll
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\obj\Debug\net8.0\CalculadoraFuncional.pdb
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\obj\Debug\net8.0\CalculadoraFuncional.genruntimeconfig.cache
+C:\Users\Karen Amaguaña\source\repos\CalculadoraFuncional\CalculadoraFuncional\obj\Debug\net8.0\ref\CalculadoraFuncional.dll
